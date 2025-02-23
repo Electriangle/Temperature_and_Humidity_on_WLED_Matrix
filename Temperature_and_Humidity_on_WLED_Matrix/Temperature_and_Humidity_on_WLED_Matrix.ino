@@ -10,7 +10,7 @@
  *      - Video: https://www.youtube.com/watch?v=X95eUaPup1Q
  *
  * License: MIT License
- *      - Copyright (c) 2024 Electriangle
+ *      - Copyright (c) 2025 Electriangle
  *
  * Date Created: 1/24/25
  * Version: 1.0
